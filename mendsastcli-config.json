@@ -1,0 +1,6 @@
+{
+  "scans": {
+        "csharpEngineGeneration": 2,
+        "engines": [4,5,10,11,12,102,108]
+   }
+}
