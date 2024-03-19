@@ -1,10 +1,9 @@
 using OrchardCore.Modules.Manifest;
 
 [assembly: Module(
-    Name = "Deployment",
+    Name = "CORS Configuration",
     Author = ManifestConstants.OrchardCoreTeam,
     Website = ManifestConstants.OrchardCoreWebsite,
     Version = ManifestConstants.OrchardCoreVersion,
-    Category = "Deployment",
-    Description = "Provides a way to import and export recipes"
-)]
+    Description = "Enables configuration of CORS settings.",
+    Category = "Security")]
